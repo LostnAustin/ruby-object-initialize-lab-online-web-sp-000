@@ -12,4 +12,4 @@ class Dog
   end
 end
 
-  Fido = Dog.new
+  Fido = Dog.new("Fido")
