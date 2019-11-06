@@ -15,7 +15,7 @@ end
     #getter
 
     def breed=(breed)
-      @breed = "Mutt"
+      @breed
     end
 
     def breed
