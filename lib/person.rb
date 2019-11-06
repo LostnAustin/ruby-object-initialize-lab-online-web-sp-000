@@ -13,5 +13,5 @@ end
   end
     #getter
 end
-    
+
 Beyonce = Person.new
