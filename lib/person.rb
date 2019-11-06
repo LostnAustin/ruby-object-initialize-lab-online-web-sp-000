@@ -8,4 +8,4 @@ end
   end
 end
 
-person = Person.new
+name = Person.new
