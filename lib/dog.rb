@@ -3,8 +3,6 @@ class Dog
     @name = name
 end
 
-
-
   def name=(name)
     @name = name
   end
@@ -16,7 +14,8 @@ end
     #getter
 
     def breed=(breed)
-      @breed = "Mutt"
+      @breed = breed
+      default = "Mutt"
     end
 
     def breed
