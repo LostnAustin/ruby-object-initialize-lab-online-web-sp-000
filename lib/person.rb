@@ -14,4 +14,4 @@ end
     #getter
 end
 
-Beyonce = Person.new
+Beyonce = Person.new("Beyonce")
