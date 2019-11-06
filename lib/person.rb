@@ -7,3 +7,5 @@ end
     @name
   end
 end
+
+Person.new= "person_name"
