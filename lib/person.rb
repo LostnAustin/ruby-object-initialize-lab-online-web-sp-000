@@ -8,4 +8,4 @@ end
   end
 end
 
-Person.new= "person_name"
+person = person.new
