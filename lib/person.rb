@@ -13,15 +13,6 @@ end
     @name
   end
     #getter
-
-    def breed=(breed)
-      @breed = breed
-    end
-
-    def breed
-      @breed
-    end
-
 end
 
 Beyonce = Person.new("Beyonce")
