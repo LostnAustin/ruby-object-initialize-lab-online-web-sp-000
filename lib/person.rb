@@ -8,4 +8,4 @@ end
   end
 end
 
-name = Person.new
+Beyonce = Person.new
