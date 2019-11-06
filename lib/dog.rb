@@ -26,4 +26,4 @@ end
     end
 end
 
-  Fido = Dog.new("Fido")
+  #Fido = Dog.new("Fido")
