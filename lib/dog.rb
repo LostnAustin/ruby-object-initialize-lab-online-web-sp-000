@@ -13,14 +13,7 @@ end
   end
     #getter
 
-    def breed=(breed)
-      @breed = breed
-      default = "Mutt"
-    end
-
-    def breed
-      @breed
-    end
+  
 end
 
   #Fido = Dog.new("Fido")
